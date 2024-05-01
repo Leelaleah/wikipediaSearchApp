@@ -1,0 +1,48 @@
+.container{
+    font-family: sans-serif;
+    border-width: 0px;
+    border-color: white;
+}
+
+.wikiImg{
+    border-width: 0px;
+    border-style: solid; 
+    border-color: #d5cdcd;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    margin-bottom: 40px;
+}
+
+.wiki-logo {
+    margin-bottom: 30px;
+    width: 150px;
+  }
+
+.search-input {
+    border-radius: 10px;
+    padding: 10px;
+    border-width: 1px;
+    border-style: solid; 
+    border-color: #d5cdcd;
+    font-size: 18px;
+    width: 100%;
+  }
+
+  .resultContainer {
+    width: 100%;
+    padding-left: 20px;
+  }
+
+  .result-title {
+    font-size: 32px;
+  }
+
+  .result-url{
+    font-size:25px ;
+  }
+
+  .result-disc{
+    font-size: 20px;
+  }
